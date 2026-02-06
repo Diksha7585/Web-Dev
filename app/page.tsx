@@ -22,7 +22,6 @@ export default function Home() {
           src="/hero.mp4"
           autoPlay
           muted
-          loop
           playsInline
           className="absolute inset-0 w-full h-full object-cover opacity-60"
         />
