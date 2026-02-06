@@ -31,7 +31,7 @@ export default function TextStoryOverlays() {
     return (
         <>
             <Section text="WHERE COLOR" subtext="MEETS EMOTION" progressStart={0.1} progressEnd={0.25} />
-            <Section text="CRAFTED BY" subtext="VISIONARY ARTISTS" progressStart={0.3} progressEnd={0.45} />
+            <Section text="CRAFTED BY" subtext="TITIKSHA CHORAGHE" progressStart={0.3} progressEnd={0.45} />
             <Section text="EACH STROKE" subtext="TELLS A STORY" progressStart={0.5} progressEnd={0.65} />
             <Section text="OWN A PIECE" subtext="OF THE UNIVERSE" progressStart={0.7} progressEnd={0.85} />
         </>
