@@ -1,7 +1,8 @@
-import type { NextConfig } from "next";
+const nextConfig = {
+  output: 'export',
+  images: {
+    unoptimized: true
+  }
+}
 
-const nextConfig: NextConfig = {
-  output: "standalone",
-};
-
-export default nextConfig;
+export default nextConfig
